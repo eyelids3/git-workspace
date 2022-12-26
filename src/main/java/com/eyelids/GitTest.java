@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("你好！Git");
         System.out.println("Git 002 commit");
         System.out.println("hot-fix merge");
+        System.out.println("冲突合并 master");
     }
 }
