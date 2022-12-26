@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("冲突合并 hot-fix commit");
         System.out.println("ssh push");
         System.out.println("git忽略文件");
+        System.out.println("git忽略文件");
     }
 }
